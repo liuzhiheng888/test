@@ -1,0 +1,76 @@
+[ 2017-10-09T09:21:28+08:00 ] ::1 /Angelababy/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: uname D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 7 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.026000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.026000s ]
+NOTIC: [8] Undefined variable: uname D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 49 行.
+NOTIC: [8] Undefined variable: arr D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 68 行.
+NOTIC: [8] Undefined variable: arr D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.121000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.121000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-09T09:21:32+08:00 ] ::1 /Angelababy/index.php?__hbt=1507512092521
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: uname D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 7 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: uname D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 49 行.
+NOTIC: [8] Undefined variable: arr D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 68 行.
+NOTIC: [8] Undefined variable: arr D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-09T09:21:38+08:00 ] ::1 /Angelababy/buycar/buycar
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: uname D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 7 行.
+SQL: SHOW COLUMNS FROM `meitu_product` [ RunTime:0.0390s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `meitu_product` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `meitu_product` LIMIT 0,12   [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: uname D:\WWW\Angelababy\Application\Runtime\Cache\Home\b3b0930c589e1b13b35054b640e2b2a7.php 第 50 行.
+NOTIC: [8] Undefined variable: arr D:\WWW\Angelababy\Application\Runtime\Cache\Home\b3b0930c589e1b13b35054b640e2b2a7.php 第 69 行.
+NOTIC: [8] Undefined variable: arr D:\WWW\Angelababy\Application\Runtime\Cache\Home\b3b0930c589e1b13b35054b640e2b2a7.php 第 75 行.
+NOTIC: [8] Undefined variable: uname D:\WWW\Angelababy\Application\Runtime\Cache\Home\b3b0930c589e1b13b35054b640e2b2a7.php 第 218 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+

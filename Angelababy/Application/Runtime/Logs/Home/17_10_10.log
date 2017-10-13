@@ -1,0 +1,280 @@
+[ 2017-10-10T17:10:20+08:00 ] ::1 /Angelababy/index.php?__hbt=1507626618631
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.027000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: uname D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 7 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.028000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.028000s ]
+NOTIC: [8] Undefined variable: uname D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 49 行.
+NOTIC: [8] Undefined variable: arr D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 68 行.
+NOTIC: [8] Undefined variable: arr D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.097000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.097000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-10T17:10:27+08:00 ] ::1 /Angelababy/meiyan/meiyan
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\WWW\Angelababy\Application\Home\Controller\MeiyanController.class.php on line 6 and defined D:\WWW\Angelababy\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\WWW\Angelababy\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-10T20:09:24+08:00 ] ::1 /Angelababy/index.php?__hbt=1507637363587
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: uname D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 7 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: uname D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 49 行.
+NOTIC: [8] Undefined variable: arr D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 68 行.
+NOTIC: [8] Undefined variable: arr D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-10T20:09:27+08:00 ] ::1 /Angelababy/buycar/buycar
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: uname D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 7 行.
+SQL: SHOW COLUMNS FROM `meitu_product` [ RunTime:0.0460s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `meitu_product` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `meitu_product` LIMIT 0,12   [ RunTime:0.0040s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: uname D:\WWW\Angelababy\Application\Runtime\Cache\Home\b3b0930c589e1b13b35054b640e2b2a7.php 第 50 行.
+NOTIC: [8] Undefined variable: arr D:\WWW\Angelababy\Application\Runtime\Cache\Home\b3b0930c589e1b13b35054b640e2b2a7.php 第 69 行.
+NOTIC: [8] Undefined variable: arr D:\WWW\Angelababy\Application\Runtime\Cache\Home\b3b0930c589e1b13b35054b640e2b2a7.php 第 75 行.
+NOTIC: [8] Undefined variable: uname D:\WWW\Angelababy\Application\Runtime\Cache\Home\b3b0930c589e1b13b35054b640e2b2a7.php 第 218 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-10T20:09:31+08:00 ] ::1 /Angelababy/login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: uname D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 7 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\WWW\Angelababy\Application\Home\Controller\LoginController.class.php on line 6 and defined D:\WWW\Angelababy\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\WWW\Angelababy\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-10T20:10:10+08:00 ] ::1 /Angelababy/login/yanzheng
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: uname D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 7 行.
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0370s ]
+SQL: SELECT * FROM `meitu_user` WHERE `uname` = '15531006501' AND `upwd` = '123456'  [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\LoginController.class.php 第 11 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-10T20:10:19+08:00 ] ::1 /Angelababy/login/yanzheng
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0070s ]
+SQL: SELECT `uid` FROM `meitu_user` WHERE `uname` = '15531006501' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0260s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.0230s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE (  cartId=1 and productId=pid ) ORDER BY did  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `meitu_user` WHERE `uname` = '15531006501' AND `upwd` = '123456aa'  [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\LoginController.class.php 第 11 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-10T20:10:21+08:00 ] ::1 /Angelababy/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0060s ]
+SQL: SELECT `uid` FROM `meitu_user` WHERE `uname` = '15531006501' LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0140s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE (  cartId=1 and productId=pid ) ORDER BY did  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-10-10T20:10:32+08:00 ] ::1 /Angelababy/buycar/buycar
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0080s ]
+SQL: SELECT `uid` FROM `meitu_user` WHERE `uname` = '15531006501' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0060s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE (  cartId=1 and productId=pid ) ORDER BY did  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `meitu_product` [ RunTime:0.0080s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `meitu_product` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `meitu_product` LIMIT 0,12   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-10T20:39:43+08:00 ] ::1 /Angelababy/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: uname D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 7 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: uname D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 49 行.
+NOTIC: [8] Undefined variable: arr D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 68 行.
+NOTIC: [8] Undefined variable: arr D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-10T20:39:51+08:00 ] ::1 /Angelababy/login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: uname D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 7 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\WWW\Angelababy\Application\Home\Controller\LoginController.class.php on line 6 and defined D:\WWW\Angelababy\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\WWW\Angelababy\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-10T20:40:42+08:00 ] ::1 /Angelababy/login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: uname D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 7 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\WWW\Angelababy\Application\Home\Controller\LoginController.class.php on line 6 and defined D:\WWW\Angelababy\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\WWW\Angelababy\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+

@@ -1,0 +1,321 @@
+[ 2017-10-12T20:22:49+08:00 ] ::1 /Angelababy/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: uname D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 7 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: uname D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 49 行.
+NOTIC: [8] Undefined variable: arr D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 68 行.
+NOTIC: [8] Undefined variable: arr D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.044000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.044000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-12T20:22:51+08:00 ] ::1 /Angelababy/index.php?__hbt=1507810971342
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: uname D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 7 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: uname D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 49 行.
+NOTIC: [8] Undefined variable: arr D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 68 行.
+NOTIC: [8] Undefined variable: arr D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-12T20:23:25+08:00 ] ::1 /Angelababy/index.php?__hbt=1507811004518
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: uname D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 7 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: uname D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 49 行.
+NOTIC: [8] Undefined variable: arr D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 68 行.
+NOTIC: [8] Undefined variable: arr D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-12T20:23:28+08:00 ] ::1 /Angelababy/login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: uname D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 7 行.
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\WWW\Angelababy\Application\Home\Controller\LoginController.class.php on line 6 and defined D:\WWW\Angelababy\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\WWW\Angelababy\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-12T20:23:36+08:00 ] ::1 /Angelababy/login/yanzheng
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: uname D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 7 行.
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0680s ]
+SQL: SELECT * FROM `meitu_user` WHERE `uname` = '15531006501' AND `upwd` = '123456aa'  [ RunTime:0.0000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\LoginController.class.php 第 11 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-12T20:23:38+08:00 ] ::1 /Angelababy/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0050s ]
+SQL: SELECT `uid` FROM `meitu_user` WHERE `uname` = '15531006501' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0280s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.0190s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE (  cartId=1 and productId=pid ) ORDER BY did  [ RunTime:0.0100s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-12T20:23:42+08:00 ] ::1 /Angelababy/buycar/buycar
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0060s ]
+SQL: SELECT `uid` FROM `meitu_user` WHERE `uname` = '15531006501' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0070s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE (  cartId=1 and productId=pid ) ORDER BY did  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `meitu_product` [ RunTime:0.0080s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `meitu_product` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `meitu_product` LIMIT 0,12   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-12T20:23:53+08:00 ] ::1 /Angelababy/Cart/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0080s ]
+SQL: SELECT `uid` FROM `meitu_user` WHERE `uname` = '15531006501' LIMIT 1   [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0040s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE (  cartId=1 and productId=pid ) ORDER BY did  [ RunTime:0.0000s ]
+SQL: SELECT `uid` FROM `meitu_user` WHERE `uname` = '15531006501' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] Illegal string offset 'uid' D:\WWW\Angelababy\Application\Home\Controller\CartController.class.php 第 18 行.
+SQL: SELECT * FROM `meitu_cart` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `meitu_cart_detail` WHERE ( cartId=1 AND productId=1 )  [ RunTime:0.0000s ]
+SQL: INSERT INTO `meitu_cart_detail` (`did`,`cartId`,`productId`,`count`) VALUES (NULL,'1','1','1') [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-12T20:23:54+08:00 ] ::1 /Angelababy/Cart/select
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0070s ]
+SQL: SELECT `uid` FROM `meitu_user` WHERE `uname` = '15531006501' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0110s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE (  cartId=1 and productId=pid ) ORDER BY did  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-12T20:23:55+08:00 ] ::1 /Angelababy/Cart/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0110s ]
+SQL: SELECT `uid` FROM `meitu_user` WHERE `uname` = '15531006501' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0070s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE (  cartId=1 and productId=pid ) ORDER BY did  [ RunTime:0.0000s ]
+SQL: SELECT `uid` FROM `meitu_user` WHERE `uname` = '15531006501' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] Illegal string offset 'uid' D:\WWW\Angelababy\Application\Home\Controller\CartController.class.php 第 18 行.
+SQL: SELECT * FROM `meitu_cart` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `meitu_cart_detail` WHERE ( cartId=1 AND productId=2 )  [ RunTime:0.0000s ]
+SQL: INSERT INTO `meitu_cart_detail` (`did`,`cartId`,`productId`,`count`) VALUES (NULL,'1','2','1') [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-12T20:23:56+08:00 ] ::1 /Angelababy/Cart/select
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0060s ]
+SQL: SELECT `uid` FROM `meitu_user` WHERE `uname` = '15531006501' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0070s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE (  cartId=1 and productId=pid ) ORDER BY did  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-12T20:24:45+08:00 ] ::1 /Angelababy/Cart/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0040s ]
+SQL: SELECT `uid` FROM `meitu_user` WHERE `uname` = '15531006501' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0040s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE (  cartId=1 and productId=pid ) ORDER BY did  [ RunTime:0.0000s ]
+SQL: SELECT `uid` FROM `meitu_user` WHERE `uname` = '15531006501' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] Illegal string offset 'uid' D:\WWW\Angelababy\Application\Home\Controller\CartController.class.php 第 18 行.
+SQL: SELECT * FROM `meitu_cart` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `meitu_cart_detail` WHERE ( cartId=1 AND productId=3 )  [ RunTime:0.0010s ]
+SQL: INSERT INTO `meitu_cart_detail` (`did`,`cartId`,`productId`,`count`) VALUES (NULL,'1','3','1') [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-12T20:24:46+08:00 ] ::1 /Angelababy/Cart/select
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0080s ]
+SQL: SELECT `uid` FROM `meitu_user` WHERE `uname` = '15531006501' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0070s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE (  cartId=1 and productId=pid ) ORDER BY did  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-12T20:24:55+08:00 ] ::1 /Angelababy/Cart/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0040s ]
+SQL: SELECT `uid` FROM `meitu_user` WHERE `uname` = '15531006501' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0080s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE (  cartId=1 and productId=pid ) ORDER BY did  [ RunTime:0.0000s ]
+SQL: SELECT `uid` FROM `meitu_user` WHERE `uname` = '15531006501' LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [2] Illegal string offset 'uid' D:\WWW\Angelababy\Application\Home\Controller\CartController.class.php 第 18 行.
+SQL: SELECT * FROM `meitu_cart` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `meitu_cart_detail` WHERE ( cartId=1 AND productId=4 )  [ RunTime:0.0010s ]
+SQL: INSERT INTO `meitu_cart_detail` (`did`,`cartId`,`productId`,`count`) VALUES (NULL,'1','4','1') [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-12T20:24:56+08:00 ] ::1 /Angelababy/Cart/select
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0060s ]
+SQL: SELECT `uid` FROM `meitu_user` WHERE `uname` = '15531006501' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0060s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE (  cartId=1 and productId=pid ) ORDER BY did  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
